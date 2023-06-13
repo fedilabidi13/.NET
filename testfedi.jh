@@ -1,0 +1,26 @@
+entity Panne {
+	id Integer,
+    titre String,
+    description String
+}
+
+entity Article {
+	id  Integer
+}
+
+
+entity Modele {
+	id Integer,
+	titre String,
+    }
+	
+entity Marque {
+	id Integer,
+	titre String,
+	creele LocalDate
+    }
+
+
+
+
+
